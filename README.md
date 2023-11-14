@@ -2,7 +2,7 @@
 ---
 
     I'm Bruno Vallin and this is my portfolio with all my personal projects.
-    I'm actually unemployed, but i'm working in a simple project using .Net, Angular and some Design Patterns.
+    I'm actually unemploye, but learning about some technologies like Angular, .NET core, Design Patterns and others.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white "Perfil Linkedin")](https://linkedin.com/in/brunovallin) 
 
